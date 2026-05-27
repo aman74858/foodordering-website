@@ -37,32 +37,6 @@ A modern and responsive Online Food Ordering Web Application developed using HTM
 - LocalStorage
 - Font Awesome
 
----
-
-## 📂 Project Structure
-
-FoodOrdering/
-│
-├── index.html                 # Home Page
-├── cart.html                  # Cart Page
-├── admin.html                 # Admin Login Page
-├── admin-dashboard.html       # Admin Dashboard
-│
-├── css/
-│   └── style.css              # Main Stylesheet
-│
-├── js/
-│   ├── data.js                # Food Data Storage
-│   ├── app.js                 # Home Page Functions
-│   ├── cart.js                # Cart Functions
-│   ├── admin.js               # Admin Login Logic
-│   └── admin-dashboard.js     # Dashboard CRUD Operations
-│
-├── assets/                    # Images and Food Assets
-│
-└── README.md                  # Project Documentation
-
----
 
 ## 🔑 Admin Credentials
 
